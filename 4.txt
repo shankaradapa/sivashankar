@@ -1,2 +1,6 @@
+
 install git
-install terraform
+
+install terraform 
+install git
+install maven
